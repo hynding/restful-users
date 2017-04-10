@@ -1,0 +1,19 @@
+{
+  "name": "restful-users",
+  "version": "1.0.0",
+  "description": "An extendable, RESTful API for servicing SCRUD, authentication and social network operations with a user collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hynding/restful-users.git"
+  },
+  "author": "Steve Hynding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hynding/restful-users/issues"
+  },
+  "homepage": "https://github.com/hynding/restful-users#readme"
+}
